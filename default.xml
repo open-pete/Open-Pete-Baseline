@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+
+	<remote  name="Open-Pete" fetch="git@github.com:open-pete/Open-Pete-Baseline.git" />
+
+	<default revision="refs/heads/master"
+        	 remote="bitbucket"
+                 sync-j="4" />
+
+	<project name="DBInterface" remote="git@github.com:open-pete/DBInterface.git"/>
+
+</manifest>
