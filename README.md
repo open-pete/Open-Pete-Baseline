@@ -3,7 +3,7 @@ Baseline repository of Open-Pete
 
 <pre>
 Open-Pete
- |___||||_____ An <b>open</b> source implementation of an
+|____||||_____ An <b>open</b> source implementation of an
      ||||_____ <b>P</b>leasant and 
       |||_____ <b>E</b>xtraodinary pretty 
        ||_____ <b>T</b>ravel-assistent who keeps your ride save, cozy and 
