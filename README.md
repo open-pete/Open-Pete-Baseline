@@ -16,7 +16,8 @@ Open-Pete
 
 - [x] Bring DateTimePP to version 1.0.0
 - [x] Integrate DateTimePP into DBInterface
-- [ ] Release first version of DBInterface in Open-Pete Domain
+- [x] Rename DBInterface to CPP2InfluxDB
+- [x] Release first version of CPP2InfluxDB in Open-Pete organization
 - [ ] Bring SensorDeamon to version 1.0.0 which writes Dummy-Data into Influx-DB
 - [ ] create initial Open-Pete-UI
 - [ ] Display Influx-DB values in Open-Pete-UI
