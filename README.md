@@ -14,8 +14,8 @@ Open-Pete
 
 ## v0.1.0 Startup, show data from Influx-DB
 
-- [ ] Bring DateTimePP to version 1.0.0
-- [ ] Integrate DateTimePP into DBInterface
+- [x] Bring DateTimePP to version 1.0.0
+- [x] Integrate DateTimePP into DBInterface
 - [ ] Release first version of DBInterface in Open-Pete Domain
 - [ ] Bring SensorDeamon to version 1.0.0 which writes Dummy-Data into Influx-DB
 - [ ] create initial Open-Pete-UI
