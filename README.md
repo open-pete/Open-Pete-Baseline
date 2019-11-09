@@ -14,12 +14,16 @@ Open-Pete
 
 ## v0.1.0 Startup, show data from Influx-DB
 
-- [x] Bring DateTimePP to version 1.0.0
-- [x] Integrate DateTimePP into DBInterface
+- [x] Bring DateTime++ to version 1.0.0
+- [x] Integrate DateTime++ into DBInterface
 - [x] Rename DBInterface to CPP2InfluxDB
 - [x] Release first version of CPP2InfluxDB in Open-Pete organization
-- [ ] Bring SensorDeamon to version 1.0.0 which writes Dummy-Data into Influx-DB
-- [ ] create initial Open-Pete-UI
+- [x] Setup repo Sensor++
+- [x] Create Dummy-Sensor class which reads dummy values
+- [ ] Bring Sensor++ to version v1.2.0 (Dummy Implementation of 5-10 sensors)
+- [x] Setup repo DataLogger
+- [ ] Bring DataLogger to version 1.0.0 which writes Dummy-Data into Influx-DB
+- [x] create initial Open-Pete-UI
 - [ ] Display Influx-DB values in Open-Pete-UI
 
 ## v0.2.0 
