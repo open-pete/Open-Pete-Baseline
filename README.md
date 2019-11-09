@@ -25,6 +25,7 @@ Open-Pete
 - [ ] Bring DataLogger to version 1.0.0 which writes Dummy-Data into Influx-DB
 - [x] create initial Open-Pete-UI
 - [ ] Display Influx-DB values in Open-Pete-UI
+- [ ] Integrate Open-Pete-UI, DataLogger, CPP2InfluxDB, Sensor++ and DateTime++ into Open-Pete-Baseline
 
 ## v0.2.0 
 - [ ] Display real sensor data from at least one sensor in Open-Pete-UI
