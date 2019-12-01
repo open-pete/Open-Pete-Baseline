@@ -20,7 +20,7 @@ Open-Pete
 - [x] Release first version of CPP2InfluxDB in Open-Pete organization
 - [x] Setup repo Sensor++
 - [x] Create Dummy-Sensor class which reads dummy values
-- [ ] Bring Sensor++ to version v1.2.0 (Dummy Implementation of 5-10 sensors)
+- [x] Bring Sensor++ to version v1.2.0 (Dummy Implementation of 5-10 sensors)
 - [x] Setup repo DataLogger
 - [ ] Bring DataLogger to version 1.0.0 which writes Dummy-Data into Influx-DB
 - [x] create initial Open-Pete-UI
